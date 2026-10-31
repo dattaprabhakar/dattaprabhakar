@@ -1,18 +1,40 @@
-# 💫 About Me:
-## 👋 Hi, I'm Datta Prabhakar<br><br>I'm a **DevOps Engineer** with over **3 years of experience**, currently based in **Hyderabad, India (UTC +05:30)**. I specialize in designing and managing **cloud infrastructure**, building robust **CI/CD pipelines**, and implementing **Infrastructure as Code (IaC)** using modern DevOps tools. I’m passionate about automation, scalability, and delivering reliable solutions across cloud and on-premises environments.<br><br>---<br><br>## 🛠️ Focus Areas<br><br>* ☁️ **Cloud Infrastructure (AWS)**<br>* 🔄 **CI/CD Pipeline Design**<br>* 📜 **Infrastructure as Code (Terraform)**<br>* ⚙️ **Automation & Monitoring**<br>* 🐳 **Docker & Containerization**<br>* ☸️ **Kubernetes (K8s)**<br><br>---<br><br>## 💼 Experience<br><br>With over 3 years in the DevOps domain, I've gained hands-on experience in cloud-native technologies, infrastructure automation, and system optimization. I’ve also worked extensively on **on-premises infrastructure setups using VMware**, enabling hybrid infrastructure strategies and localized deployments.<br><br>---<br><br>## 🧠 Interests<br><br>* 🤖 Automation & Scripting<br>* 🌍 Open-Source Contributions<br>* 🔧 DevOps Integrations & Observability<br><br>---<br><br>## 🧰 Skills<br><br>**Cloud & DevOps:**<br>AWS, Terraform, Docker, Kubernetes, CI/CD, IAM, CloudWatch, CloudTrail, VMware<br><br>**Programming Languages:**<br>Python, JavaScript<br><br>**Tools & Platforms:**<br>Git, Linux, Azure, Jenkins, Prometheus, Grafana, Ansible<br><br>---<br><br>## 📬 Get in Touch<br><br>I’m always excited to collaborate on innovative **DevOps projects**, contribute to **open-source**, or discuss **cloud-native architectures** and **automation strategies**.<br>Feel free to check out my repositories or reach out to connect!<br>
+# Hi, I'm Datta Prabhakar 👋
 
+**DevOps Engineer · 4+ years · Hyderabad, India**
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dattaprabhakar&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dattaprabhakar&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dattaprabhakar&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I build CI/CD pipelines and run Kubernetes-based microservices in production for **Jio** projects at **Asset Telematics Pvt Ltd**.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dattaprabhakar&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
+**Azure DevOps · Jenkins · Kubernetes · Docker · AWS · Terraform · Ansible · Prometheus · Grafana · ELK**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dattaprabhakar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## What I do
+
+- Build CI/CD pipelines in **Azure DevOps** and **Jenkins**, cutting deployment time by up to **85%** by replacing manual releases
+- Run Node.js and Java Spring Boot microservices on **Kubernetes** with rolling updates, health probes, HPA, ConfigMaps and Secrets
+- Provision **AWS** infrastructure with **Terraform** (VPC, subnets, security groups, bastion, EC2, NLB) and configure servers with **Ansible**
+- Set up monitoring and centralized logging with **Prometheus, Grafana** and **ELK Stack**
+- Manage on-prem infrastructure: self-managed **GitLab** migration with DR backups, **Proxmox VE** virtualization, **JFrog Artifactory**
+
+## Featured projects
+
+| Project | What it shows |
+|---|---|
+| [docker-multi-env-proxy](https://github.com/dattaprabhakar/docker-multi-env-proxy) | Traefik reverse proxy routing isolated DEV and SIT environments on the same port behind one entry point |
+| [aws-terraform](https://github.com/dattaprabhakar/aws-terraform) | Terraform for an AWS setup with VPC, public/private subnets, NAT, NLB, OpenVPN, IAM, CloudWatch and CloudTrail |
+| [expense-terraform-dev](https://github.com/dattaprabhakar/expense-terraform-dev) | Layered Terraform for a 3-tier app: VPC → security groups → bastion → app servers |
+| [expense-ansible-roles](https://github.com/dattaprabhakar/expense-ansible-roles) | Ansible roles that configure MySQL, backend and frontend servers for a 3-tier app |
+| [jfrog](https://github.com/dattaprabhakar/jfrog) | Script that sets up JFrog Artifactory OSS with PostgreSQL using Docker Compose |
+| [prometheus-monitoring](https://github.com/dattaprabhakar/prometheus-monitoring) | Prometheus and Grafana with node_exporter to monitor multiple servers |
+
+## Tech stack
+
+- **CI/CD:** Azure DevOps, Jenkins, GitLab, JFrog Artifactory, SonarQube
+- **Containers:** Docker, Kubernetes
+- **Cloud & IaC:** AWS (EC2, S3, VPC, IAM), Terraform, Ansible
+- **Observability:** Prometheus, Grafana, ELK Stack
+- **Scripting & OS:** Bash, Python, Linux (RHEL, Ubuntu, CentOS)
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/prabhakar-devops) · prabhakararaonandigrama@gmail.com
